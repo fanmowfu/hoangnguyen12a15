@@ -6,3 +6,8 @@ h1 {
   font-weight: bold;
   font-sized: 20pt;
 }
+.content {
+  color: black;
+  font-style: normal;
+  font-sized: 14pt;
+}
