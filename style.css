@@ -1,8 +1,24 @@
-
-
-
-
-
+.container{
+  diplay: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.header{
+  flex: 20%
+  background: lightgray;
+}
+.menu{
+  flex: 5%
+  background: darkgray;
+} 
+.content{
+  flex: 70%
+  background: white;
+}
+.footer{
+ flex: 5%
+ background: darkgray;
+}
 
 h1 {
   color: red;
