@@ -5,13 +5,14 @@
 }
 .header{
   flex: 20%
-  background: lightgray;
+  background-color: lightgray;
+  background: url("") center/100% 100% ;
 }
 .menu{
   flex: 5%
-  background: darkgray;
+  background-color: darkgray;
   display: flex;
-  align-items: center;
+  align-items; center;
 } 
 .menu a{
   padding: 15px 20px;
